@@ -9,8 +9,14 @@ define('DS', DIRECTORY_SEPARATOR);
 //Define Root Directory Path
 define('ROOT', dirname(dirname(__FILE__)));
 
+//Define Public Directory Path
+define('WWW', dirname(__FILE__));
+
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 // Index Page Calls BootManager
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 
-require_once ROOT.DS.'dales'.DS.'bootstrap.php';
+require_once ROOT . DS . 'dales' . DS . 'bootstrap.php';
+
+
+

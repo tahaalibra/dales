@@ -1,20 +1,20 @@
 <?php namespace app\controller;
 
-use dales\core\controller;
+use app\model\HomeModel;
 
-class HomeController extends Controller
+class HomeController
 {
   public function home()
   {
-      $this->doNotRenderHeader=1;
-      $model = new $this->model;
-      echo "yo";
+      $page = "signin";
+      return view($page,array('page'=>$page));
   }
 
-  public function abcd()
+  public function test($abcd=null, $klm=null)
   {
-    $this->doNotRenderHeader=1;
-    echo "Hey Bro";
-  }
+      echo "test";
+      echo $abcd;
+      echo $klm;
 
+  }
 }

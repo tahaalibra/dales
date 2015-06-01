@@ -1,13 +1,8 @@
 <?php namespace app\model;
 
-use dales\core\model;
+use dales\model\Model;
 
 class HomeModel extends Model
 {
-  public function home()
-  {
-      $this->render=0;
-      $model = new $this->model;
-      echo "yo";
-  }
+
 }

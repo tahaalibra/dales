@@ -1,10 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Document</title>
-</head>
-<body>
-  yo
-</body>
-</html>
+@import(material.header)
+
+@import(topbar)
+
+@import(material.footer)
