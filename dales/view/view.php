@@ -4,6 +4,7 @@ use dales\view\HTML;
 
 class View
 {
+
     public static function render($view=null,  $data=null)
     {
         if ($view) {

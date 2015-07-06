@@ -10,11 +10,8 @@ class HomeController
       return view($page,array('page'=>$page));
   }
 
-  public function test($abcd=null, $klm=null)
+  public function test()
   {
-      echo "test";
-      echo $abcd;
-      echo $klm;
-
+    echo "test";
   }
 }

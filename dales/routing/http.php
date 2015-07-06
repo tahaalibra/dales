@@ -11,13 +11,13 @@ class http
 
             $getArray = explode("&", $urlArray[1]);
 
-            if(!REWRITE_AVAILABLE){
-                if(isset($getArray[0])&&!empty($getArray[0]))
-                $no_rewite = array_shift($getArray);
-                else {
-                    return '';
-                }
-            }
+//            if(!REWRITE_AVAILABLE){
+//                if(isset($getArray[0])&&!empty($getArray[0]))
+//                $no_rewite = array_shift($getArray);
+//                else {
+//                    return '';
+//                }
+//            }
 
             if(isset($getArray[0])&&!empty($getArray[0])) {
                 for ($i = 0; $i < count($getArray); $i++) {

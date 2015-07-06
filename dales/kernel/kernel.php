@@ -27,7 +27,7 @@ class Kernel
 
         $routing  = new \dales\routing\Routing;
         if( $routing->routes ){
-            \dales\system\Auth\Auth::startSession();
+            \dales\system\auth\Auth::startSession();
             $routing->controller();
         }else {
             \dales\error\error::page("404");

@@ -1,11 +1,9 @@
 <?php
-/*
- * Perform essential checks
- * before loading the website
- *
- */
- 
-//Check if development enviourment is true
+
+///////////////////////////////////////////////////////////////////////////////
+//    Check For Development Environment
+///////////////////////////////////////////////////////////////////////////////
+
 function setReporting()
  {
      if (DEVELOPMENT_ENVIRONMENT == true) {
@@ -19,8 +17,11 @@ function setReporting()
      }
  }
 
- 
-// This Check for Magic Quotes and Remove them for more refer google
+
+///////////////////////////////////////////////////////////////////////////////
+//    This Check for Magic Quotes and Remove them for more refer google
+///////////////////////////////////////////////////////////////////////////////
+
 function stripSlashesDeep($value)
  {
      $value = is_array($value) ? array_map('stripSlashesDeep', $value) : stripslashes($value);
@@ -36,7 +37,10 @@ function stripSlashesDeep($value)
      }
  }
 
-//Check register globals and remove them
+///////////////////////////////////////////////////////////////////////////////
+//    Check register globals and remove them
+///////////////////////////////////////////////////////////////////////////////
+
 function unregisterGlobals()
  {
      if (ini_get('register_globals')) {
@@ -52,7 +56,10 @@ function unregisterGlobals()
  }
 
 
- // Force user to https only
+///////////////////////////////////////////////////////////////////////////////
+//    Force user to https only
+///////////////////////////////////////////////////////////////////////////////
+
  function httpsonly()
  {
     if(HTTPS_ONLY){

@@ -8,4 +8,3 @@
 
 define("DEVELOPMENT_ENVIRONMENT",true);
 define("HTTPS_ONLY",false);
-define('REWRITE_AVAILABLE',true);

@@ -28,7 +28,7 @@ class Routing
 
                 //return array();
                 $page = new $Controller();
-                call_user_func_array(array($page, $Action), $this->routes['vars']);
+                $return = call_user_func_array(array($page, $Action), $this->routes['vars']);
             } else {
                 \dales\error\error::send("Error: Controller Class Method should be Public");
             }

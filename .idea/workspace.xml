@@ -2,570 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="accfefcc-baaf-40c2-9897-8c44b0b6c1b4" name="Default" comment="">
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\README.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\app\config\routing.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\composer.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\composer.lock" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\dales\checks.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\dales\config.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\dales\config\database.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\dales\config\profile.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\dales\core\Controller.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\dales\core\HTML.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\dales\core\Model.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\dales\core\PDOQuery.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\dales\core\View.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\dales\init.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\dales\routing.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\dales\routing\routing.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\dales\system\Captcha\Captcha.Extension.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\dales\system\Email\Email.Extension.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\dales\system\Email\view\activated.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\dales\system\Email\view\activation.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\dales\system\Notify\Notify.Extension.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\dales\system\RWConfig\RWConfig.Extension.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\dales\system\Sanatize\Sanatize.Extension.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\dales\system\TimeAgo\TimeAgo.Extension.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\dales\system\Upload\Upload.Extension.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\dales\system\auth\Auth.Extension.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\dales\temp\localisation\en.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\dales\test.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\autoload.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\composer\ClassLoader.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\composer\autoload_classmap.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\composer\autoload_namespaces.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\composer\autoload_psr4.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\composer\autoload_real.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\composer\installed.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\psr\log\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\psr\log\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\psr\log\Psr\Log\AbstractLogger.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\psr\log\Psr\Log\InvalidArgumentException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\psr\log\Psr\Log\LogLevel.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\psr\log\Psr\Log\LoggerAwareInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\psr\log\Psr\Log\LoggerAwareTrait.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\psr\log\Psr\Log\LoggerInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\psr\log\Psr\Log\LoggerTrait.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\psr\log\Psr\Log\NullLogger.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\psr\log\Psr\Log\Test\LoggerInterfaceTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\psr\log\README.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\psr\log\composer.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\Debug.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\DebugClassLoader.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\ErrorHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\ExceptionHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\Exception\ClassNotFoundException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\Exception\ContextErrorException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\Exception\DummyException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\Exception\FatalErrorException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\Exception\FlattenException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\Exception\OutOfMemoryException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\Exception\UndefinedFunctionException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\Exception\UndefinedMethodException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\FatalErrorHandler\ClassNotFoundFatalErrorHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\FatalErrorHandler\FatalErrorHandlerInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\FatalErrorHandler\UndefinedFunctionFatalErrorHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\FatalErrorHandler\UndefinedMethodFatalErrorHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\README.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\Resources\ext\README.rst" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\Resources\ext\config.m4" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\Resources\ext\config.w32" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\Resources\ext\php_symfony_debug.h" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\Resources\ext\symfony_debug.c" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\Resources\ext\tests\001.phpt" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\Tests\DebugClassLoaderTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\Tests\ErrorHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\Tests\ExceptionHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\Tests\Exception\FlattenExceptionTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\Tests\FatalErrorHandler\ClassNotFoundFatalErrorHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\Tests\FatalErrorHandler\UndefinedFunctionFatalErrorHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\Tests\FatalErrorHandler\UndefinedMethodFatalErrorHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\Tests\Fixtures\ClassAlias.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\Tests\Fixtures\PEARClass.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\Tests\Fixtures\RequiredTwice.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\Tests\Fixtures\casemismatch.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\Tests\Fixtures\notPsr0Bis.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\Tests\Fixtures\psr4\Psr4CaseMismatch.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\Tests\Fixtures\reallyNotPsr0.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\Tests\MockExceptionHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\composer.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\debug\Symfony\Component\Debug\phpunit.xml.dist" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\event-dispatcher\Symfony\Component\EventDispatcher\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\event-dispatcher\Symfony\Component\EventDispatcher\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\event-dispatcher\Symfony\Component\EventDispatcher\ContainerAwareEventDispatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\event-dispatcher\Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\event-dispatcher\Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcherInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\event-dispatcher\Symfony\Component\EventDispatcher\Debug\WrappedListener.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\event-dispatcher\Symfony\Component\EventDispatcher\DependencyInjection\RegisterListenersPass.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\event-dispatcher\Symfony\Component\EventDispatcher\Event.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\event-dispatcher\Symfony\Component\EventDispatcher\EventDispatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\event-dispatcher\Symfony\Component\EventDispatcher\EventDispatcherInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\event-dispatcher\Symfony\Component\EventDispatcher\EventSubscriberInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\event-dispatcher\Symfony\Component\EventDispatcher\GenericEvent.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\event-dispatcher\Symfony\Component\EventDispatcher\ImmutableEventDispatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\event-dispatcher\Symfony\Component\EventDispatcher\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\event-dispatcher\Symfony\Component\EventDispatcher\README.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\event-dispatcher\Symfony\Component\EventDispatcher\Tests\AbstractEventDispatcherTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\event-dispatcher\Symfony\Component\EventDispatcher\Tests\ContainerAwareEventDispatcherTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\event-dispatcher\Symfony\Component\EventDispatcher\Tests\Debug\TraceableEventDispatcherTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\event-dispatcher\Symfony\Component\EventDispatcher\Tests\DependencyInjection\RegisterListenersPassTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\event-dispatcher\Symfony\Component\EventDispatcher\Tests\EventDispatcherTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\event-dispatcher\Symfony\Component\EventDispatcher\Tests\EventTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\event-dispatcher\Symfony\Component\EventDispatcher\Tests\GenericEventTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\event-dispatcher\Symfony\Component\EventDispatcher\Tests\ImmutableEventDispatcherTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\event-dispatcher\Symfony\Component\EventDispatcher\composer.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\event-dispatcher\Symfony\Component\EventDispatcher\phpunit.xml.dist" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\AcceptHeader.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\AcceptHeaderItem.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\ApacheRequest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\BinaryFileResponse.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Cookie.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\ExpressionRequestMatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\FileBag.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\File\Exception\AccessDeniedException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\File\Exception\FileException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\File\Exception\UnexpectedTypeException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\File\Exception\UploadException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\File\File.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\File\MimeType\ExtensionGuesser.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\File\MimeType\ExtensionGuesserInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\File\MimeType\FileBinaryMimeTypeGuesser.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\File\MimeType\FileinfoMimeTypeGuesser.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\File\MimeType\MimeTypeExtensionGuesser.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\File\MimeType\MimeTypeGuesser.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\File\MimeType\MimeTypeGuesserInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\File\UploadedFile.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\HeaderBag.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\IpUtils.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\JsonResponse.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\ParameterBag.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\README.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\RedirectResponse.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Request.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\RequestMatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\RequestMatcherInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\RequestStack.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Resources\stubs\SessionHandlerInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Response.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\ResponseHeaderBag.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\ServerBag.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Session\Attribute\AttributeBag.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Session\Attribute\AttributeBagInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Session\Attribute\NamespacedAttributeBag.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Session\Flash\AutoExpireFlashBag.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Session\Flash\FlashBag.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Session\Flash\FlashBagInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Session\Session.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Session\SessionBagInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Session\SessionInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Session\Storage\Handler\LegacyPdoSessionHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Session\Storage\Handler\MemcacheSessionHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Session\Storage\Handler\MemcachedSessionHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Session\Storage\Handler\MongoDbSessionHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Session\Storage\Handler\NativeFileSessionHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Session\Storage\Handler\NativeSessionHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Session\Storage\Handler\NullSessionHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Session\Storage\Handler\PdoSessionHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Session\Storage\Handler\WriteCheckSessionHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Session\Storage\MetadataBag.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Session\Storage\MockArraySessionStorage.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Session\Storage\MockFileSessionStorage.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Session\Storage\NativeSessionStorage.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Session\Storage\PhpBridgeSessionStorage.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Session\Storage\Proxy\AbstractProxy.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Session\Storage\Proxy\NativeProxy.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Session\Storage\Proxy\SessionHandlerProxy.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Session\Storage\SessionStorageInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\StreamedResponse.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\AcceptHeaderItemTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\AcceptHeaderTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\ApacheRequestTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\BinaryFileResponseTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\CookieTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\ExpressionRequestMatcherTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\FileBagTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\File\FakeFile.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\File\FileTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\File\Fixtures\.unknownextension" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\File\Fixtures\test" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\File\Fixtures\test.gif" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\File\MimeType\MimeTypeTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\File\UploadedFileTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\HeaderBagTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\IpUtilsTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\JsonResponseTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\ParameterBagTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\RedirectResponseTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\RequestMatcherTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\RequestStackTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\RequestTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\ResponseHeaderBagTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\ResponseTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\ResponseTestCase.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\ServerBagTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\Session\Attribute\AttributeBagTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\Session\Attribute\NamespacedAttributeBagTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\Session\Flash\AutoExpireFlashBagTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\Session\Flash\FlashBagTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\Session\SessionTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\Session\Storage\Handler\LegacyPdoSessionHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\Session\Storage\Handler\MemcacheSessionHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\Session\Storage\Handler\MemcachedSessionHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\Session\Storage\Handler\MongoDbSessionHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\Session\Storage\Handler\NativeFileSessionHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\Session\Storage\Handler\NativeSessionHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\Session\Storage\Handler\NullSessionHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\Session\Storage\Handler\PdoSessionHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\Session\Storage\Handler\WriteCheckSessionHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\Session\Storage\MetadataBagTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\Session\Storage\MockArraySessionStorageTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\Session\Storage\MockFileSessionStorageTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\Session\Storage\NativeSessionStorageTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\Session\Storage\PhpBridgeSessionStorageTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\Session\Storage\Proxy\AbstractProxyTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\Session\Storage\Proxy\NativeProxyTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\Session\Storage\Proxy\SessionHandlerProxyTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\StreamedResponseTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\composer.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\phpunit.xml.dist" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Bundle\Bundle.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Bundle\BundleInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\CacheClearer\ChainCacheClearer.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\CacheWarmer\CacheWarmer.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\CacheWarmer\CacheWarmerAggregate.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\CacheWarmer\CacheWarmerInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\CacheWarmer\WarmableInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Client.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Config\EnvParametersResource.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Config\FileLocator.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Controller\ControllerReference.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Controller\ControllerResolver.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Controller\ControllerResolverInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Controller\TraceableControllerResolver.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\DataCollector\ConfigDataCollector.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\DataCollector\DataCollector.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\DataCollector\DataCollectorInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\DataCollector\DumpDataCollector.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\DataCollector\EventDataCollector.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\DataCollector\ExceptionDataCollector.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\DataCollector\LateDataCollectorInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\DataCollector\LoggerDataCollector.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\DataCollector\MemoryDataCollector.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\DataCollector\RequestDataCollector.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\DataCollector\RouterDataCollector.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\DataCollector\TimeDataCollector.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\DataCollector\Util\ValueExporter.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Debug\ErrorHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Debug\ExceptionHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Debug\TraceableEventDispatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\DependencyInjection\AddClassesToCachePass.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\DependencyInjection\ConfigurableExtension.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\DependencyInjection\ContainerAwareHttpKernel.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\DependencyInjection\Extension.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\DependencyInjection\MergeExtensionConfigurationPass.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\DependencyInjection\RegisterListenersPass.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\EventListener\AddRequestFormatsListener.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\EventListener\DebugHandlersListener.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\EventListener\DumpListener.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\EventListener\ErrorsLoggerListener.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\EventListener\EsiListener.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\EventListener\ExceptionListener.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\EventListener\FragmentListener.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\EventListener\LocaleListener.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\EventListener\ProfilerListener.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\EventListener\ResponseListener.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\EventListener\RouterListener.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\EventListener\SaveSessionListener.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\EventListener\SessionListener.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\EventListener\StreamedResponseListener.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\EventListener\SurrogateListener.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\EventListener\TestSessionListener.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\EventListener\TranslatorListener.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Event\FilterControllerEvent.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Event\FilterResponseEvent.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Event\FinishRequestEvent.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Event\GetResponseEvent.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Event\GetResponseForControllerResultEvent.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Event\GetResponseForExceptionEvent.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Event\KernelEvent.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Event\PostResponseEvent.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Exception\AccessDeniedHttpException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Exception\BadRequestHttpException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Exception\ConflictHttpException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Exception\FatalErrorException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Exception\FlattenException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Exception\GoneHttpException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Exception\HttpException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Exception\HttpExceptionInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Exception\LengthRequiredHttpException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Exception\MethodNotAllowedHttpException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Exception\NotAcceptableHttpException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Exception\NotFoundHttpException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Exception\PreconditionFailedHttpException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Exception\PreconditionRequiredHttpException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Exception\ServiceUnavailableHttpException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Exception\TooManyRequestsHttpException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Exception\UnauthorizedHttpException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Exception\UnprocessableEntityHttpException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Exception\UnsupportedMediaTypeHttpException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Fragment\AbstractSurrogateFragmentRenderer.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Fragment\EsiFragmentRenderer.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Fragment\FragmentHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Fragment\FragmentRendererInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Fragment\HIncludeFragmentRenderer.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Fragment\InlineFragmentRenderer.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Fragment\RoutableFragmentRenderer.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Fragment\SsiFragmentRenderer.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\HttpCache\Esi.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\HttpCache\EsiResponseCacheStrategy.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\HttpCache\EsiResponseCacheStrategyInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\HttpCache\HttpCache.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\HttpCache\ResponseCacheStrategy.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\HttpCache\ResponseCacheStrategyInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\HttpCache\Ssi.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\HttpCache\Store.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\HttpCache\StoreInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\HttpCache\SurrogateInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\HttpKernel.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\HttpKernelInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Kernel.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\KernelEvents.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\KernelInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Log\DebugLoggerInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Log\LoggerInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Log\NullLogger.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Profiler\BaseMemcacheProfilerStorage.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Profiler\FileProfilerStorage.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Profiler\MemcacheProfilerStorage.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Profiler\MemcachedProfilerStorage.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Profiler\MongoDbProfilerStorage.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Profiler\MysqlProfilerStorage.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Profiler\PdoProfilerStorage.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Profiler\Profile.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Profiler\Profiler.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Profiler\ProfilerStorageInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Profiler\RedisProfilerStorage.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Profiler\SqliteProfilerStorage.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\README.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\TerminableInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Bundle\BundleTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\CacheClearer\ChainCacheClearerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\CacheWarmer\CacheWarmerAggregateTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\CacheWarmer\CacheWarmerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\ClientTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Config\EnvParametersResourceTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Config\FileLocatorTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Controller\ControllerResolverTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\DataCollector\ConfigDataCollectorTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\DataCollector\DumpDataCollectorTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\DataCollector\ExceptionDataCollectorTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\DataCollector\LoggerDataCollectorTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\DataCollector\MemoryDataCollectorTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\DataCollector\RequestDataCollectorTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\DataCollector\TimeDataCollectorTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\DataCollector\Util\ValueExporterTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Debug\TraceableEventDispatcherTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\DependencyInjection\ContainerAwareHttpKernelTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\DependencyInjection\MergeExtensionConfigurationPassTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\EventListener\AddRequestFormatsListenerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\EventListener\DebugHandlersListenerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\EventListener\DumpListenerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\EventListener\ExceptionListenerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\EventListener\FragmentListenerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\EventListener\LocaleListenerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\EventListener\ProfilerListenerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\EventListener\ResponseListenerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\EventListener\RouterListenerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\EventListener\SurrogateListenerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\EventListener\TestSessionListenerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\EventListener\TranslatorListenerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Fixtures\BaseBundle\Resources\hide.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Fixtures\Bundle1Bundle\Resources\foo.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Fixtures\Bundle1Bundle\bar.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Fixtures\Bundle1Bundle\foo.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Fixtures\Bundle2Bundle\foo.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Fixtures\ChildBundle\Resources\foo.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Fixtures\ChildBundle\Resources\hide.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Fixtures\ExtensionAbsentBundle\ExtensionAbsentBundle.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Fixtures\ExtensionLoadedBundle\DependencyInjection\ExtensionLoadedExtension.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Fixtures\ExtensionLoadedBundle\ExtensionLoadedBundle.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Fixtures\ExtensionPresentBundle\Command\BarCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Fixtures\ExtensionPresentBundle\Command\FooCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Fixtures\ExtensionPresentBundle\DependencyInjection\ExtensionPresentExtension.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Fixtures\ExtensionPresentBundle\ExtensionPresentBundle.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Fixtures\FooBarBundle.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Fixtures\KernelForOverrideName.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Fixtures\KernelForTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Fixtures\Resources\BaseBundle\hide.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Fixtures\Resources\Bundle1Bundle\foo.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Fixtures\Resources\ChildBundle\foo.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Fixtures\Resources\FooBundle\foo.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Fixtures\TestClient.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Fixtures\TestEventDispatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Fragment\EsiFragmentRendererTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Fragment\FragmentHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Fragment\HIncludeFragmentRendererTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Fragment\InlineFragmentRendererTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Fragment\RoutableFragmentRendererTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\HttpCache\EsiTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\HttpCache\HttpCacheTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\HttpCache\HttpCacheTestCase.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\HttpCache\SsiTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\HttpCache\StoreTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\HttpCache\TestHttpKernel.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\HttpCache\TestMultipleHttpKernel.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\HttpKernelTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\KernelTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Logger.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Profiler\AbstractProfilerStorageTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Profiler\FileProfilerStorageTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Profiler\MemcacheProfilerStorageTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Profiler\MemcachedProfilerStorageTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Profiler\Mock\MemcacheMock.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Profiler\Mock\MemcachedMock.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Profiler\Mock\RedisMock.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Profiler\MongoDbProfilerStorageTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Profiler\ProfilerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Profiler\RedisProfilerStorageTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Profiler\SqliteProfilerStorageTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\TestHttpKernel.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\UriSignerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\UriSigner.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\composer.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\phpunit.xml.dist" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Annotation\Route.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\CompiledRoute.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Exception\ExceptionInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Exception\InvalidParameterException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Exception\MethodNotAllowedException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Exception\MissingMandatoryParametersException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Exception\ResourceNotFoundException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Exception\RouteNotFoundException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Generator\ConfigurableRequirementsInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Generator\Dumper\GeneratorDumper.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Generator\Dumper\GeneratorDumperInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Generator\Dumper\PhpGeneratorDumper.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Generator\UrlGenerator.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Generator\UrlGeneratorInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Loader\AnnotationClassLoader.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Loader\AnnotationDirectoryLoader.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Loader\AnnotationFileLoader.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Loader\ClosureLoader.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Loader\PhpFileLoader.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Loader\XmlFileLoader.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Loader\YamlFileLoader.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Loader\schema\routing\routing-1.0.xsd" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Matcher\ApacheUrlMatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Matcher\Dumper\ApacheMatcherDumper.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Matcher\Dumper\DumperCollection.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Matcher\Dumper\DumperPrefixCollection.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Matcher\Dumper\DumperRoute.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Matcher\Dumper\MatcherDumper.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Matcher\Dumper\MatcherDumperInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Matcher\Dumper\PhpMatcherDumper.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Matcher\RedirectableUrlMatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Matcher\RedirectableUrlMatcherInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Matcher\RequestMatcherInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Matcher\TraceableUrlMatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Matcher\UrlMatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Matcher\UrlMatcherInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\README.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\RequestContext.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\RequestContextAwareInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Route.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\RouteCollection.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\RouteCompiler.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\RouteCompilerInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Router.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\RouterInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Annotation\RouteTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\CompiledRouteTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\AnnotatedClasses\AbstractClass.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\AnnotatedClasses\BarClass.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\AnnotatedClasses\FooClass.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\CustomXmlFileLoader.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\RedirectableUrlMatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\annotated.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\dumper\url_matcher1.apache" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\dumper\url_matcher1.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\dumper\url_matcher2.apache" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\dumper\url_matcher2.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\dumper\url_matcher3.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\empty.yml" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\foo.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\foo1.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\incomplete.yml" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\missing_id.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\missing_path.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\namespaceprefix.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\nonesense_resource_plus_path.yml" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\nonesense_type_without_resource.yml" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\nonvalid.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\nonvalid.yml" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\nonvalid2.yml" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\nonvalidkeys.yml" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\nonvalidnode.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\nonvalidroute.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\null_values.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\special_route_name.yml" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\validpattern.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\validpattern.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\validpattern.yml" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\validresource.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\validresource.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\validresource.yml" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\with_define_path_variable.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Fixtures\withdoctype.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Generator\Dumper\PhpGeneratorDumperTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Generator\UrlGeneratorTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Loader\AbstractAnnotationLoaderTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Loader\AnnotationClassLoaderTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Loader\AnnotationDirectoryLoaderTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Loader\AnnotationFileLoaderTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Loader\ClosureLoaderTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Loader\PhpFileLoaderTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Loader\XmlFileLoaderTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Loader\YamlFileLoaderTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Matcher\Dumper\DumperCollectionTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Matcher\Dumper\DumperPrefixCollectionTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Matcher\Dumper\LegacyApacheMatcherDumperTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Matcher\Dumper\PhpMatcherDumperTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Matcher\LegacyApacheUrlMatcherTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Matcher\RedirectableUrlMatcherTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Matcher\TraceableUrlMatcherTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\Matcher\UrlMatcherTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\RequestContextTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\RouteCollectionTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\RouteCompilerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\RouteTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\Tests\RouterTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\composer.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\routing\Symfony\Component\Routing\phpunit.xml.dist" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dales/controller/Controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/changelog.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controller/HomeController.php" afterPath="$PROJECT_DIR$/app/controller/HomeController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/model/HomeModel.php" afterPath="$PROJECT_DIR$/app/model/HomeModel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dales/autoload.php" afterPath="$PROJECT_DIR$/dales/autoload.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controller/IndexController.php" afterPath="$PROJECT_DIR$/app/controller/IndexController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dales/routing/Routing.php" afterPath="$PROJECT_DIR$/dales/routing/Routing.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/app.php" afterPath="$PROJECT_DIR$/app/config/app.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dales/bootstrap.php" afterPath="$PROJECT_DIR$/dales/bootstrap.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/database.php" afterPath="$PROJECT_DIR$/app/config/database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/view/home.php" afterPath="$PROJECT_DIR$/app/view/home.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.php" afterPath="$PROJECT_DIR$/public/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dales/config/path.php" afterPath="$PROJECT_DIR$/dales/config/path.php" />
-      <change type="MOVED" beforePath="E:\xampp\htdocs\dales\dales\view\view.php" afterPath="$PROJECT_DIR$/dales/view/View.php" />
-      <change type="MOVED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Tests\File\Fixtures\directory\.empty" afterPath="$PROJECT_DIR$/app/services/service.php" />
-      <change type="MOVED" beforePath="E:\xampp\htdocs\dales\vendor\symfony\http-kernel\Symfony\Component\HttpKernel\Tests\Fixtures\BaseBundle\Resources\foo.txt" afterPath="$PROJECT_DIR$/appdata/logs/error.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dales/kernel/checks.php" afterPath="$PROJECT_DIR$/dales/kernel/checks.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dales/kernel/helpers.php" afterPath="$PROJECT_DIR$/dales/kernel/helpers.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dales/routing/http.php" afterPath="$PROJECT_DIR$/dales/routing/http.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dales/kernel/kernel.php" afterPath="$PROJECT_DIR$/dales/kernel/kernel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/routes.php" afterPath="$PROJECT_DIR$/app/config/routes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="E:\xampp\htdocs\html\dales\dales\view\view.php" afterPath="$PROJECT_DIR$/dales/view/View.php" />
     </list>
     <ignored path="dales.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -589,81 +41,7 @@
     <favorites_list name="dales" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Auth.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dales/system/auth/Auth.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="30.538462" vertical-offset="1338" max-vertical-offset="1955">
-              <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
-              <folding>
-                <marker date="1432928062540" expanded="true" signature="234:274" placeholder="SELECT * FRO..users..." />
-                <marker date="1432928062540" expanded="true" signature="1485:1525" placeholder="SELECT * FRO..users..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Routes.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dales/routing/Routes.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45516074" vertical-offset="173" max-vertical-offset="1139">
-              <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="File.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dales/system/filesystem/File.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="187">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/view/home.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="187">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/view/material/footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="340">
-              <caret line="2" column="79" selection-start-line="2" selection-start-column="79" selection-end-line="2" selection-end-column="79" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/view/material/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="357">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="error.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dales/error/error.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="595">
-              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -671,71 +49,38 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
-    <option name="changedFiles">
+    <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/dales/routing.php" />
-        <option value="$PROJECT_DIR$/dales/error/Error.php" />
-        <option value="$PROJECT_DIR$/dales/view/html.php" />
-        <option value="$PROJECT_DIR$/dales/error/Fire.php" />
-        <option value="$PROJECT_DIR$/dales/routing/routes.php" />
-        <option value="$PROJECT_DIR$/dales/app/App.php" />
-        <option value="$PROJECT_DIR$/dales/inc/http.php" />
-        <option value="$PROJECT_DIR$/dales/registry/helpers.php" />
-        <option value="$PROJECT_DIR$/dales/core/Controller.php" />
-        <option value="$PROJECT_DIR$/app/config/registery.php" />
-        <option value="$PROJECT_DIR$/app/config/registry.php" />
-        <option value="$PROJECT_DIR$/dales/registry/Registry.php" />
-        <option value="$PROJECT_DIR$/dales/kernel/Kernel.php" />
-        <option value="$PROJECT_DIR$/dales/view/helpers.php" />
-        <option value="$PROJECT_DIR$/app/view/bootstrap/header.php" />
-        <option value="$PROJECT_DIR$/app/controller/home/HomeController.php" />
-        <option value="$PROJECT_DIR$/dales/autoload.php" />
-        <option value="$PROJECT_DIR$/dales/system/Auth/Auth.php" />
-        <option value="$PROJECT_DIR$/dales/model/Model.php" />
-        <option value="$PROJECT_DIR$/app/model/HomeModel.php" />
-        <option value="$PROJECT_DIR$/dales/model/PDOQuery.php" />
-        <option value="$PROJECT_DIR$/dales/library/helpers.php" />
-        <option value="$PROJECT_DIR$/dales/config/path.php" />
         <option value="$PROJECT_DIR$/dales/bootstrap.php" />
-        <option value="$PROJECT_DIR$/dales/kernel/loader.php" />
-        <option value="$PROJECT_DIR$/dales/kernel/systemcalls/model.php" />
-        <option value="$PROJECT_DIR$/dales/kernel/systemcalls/view.php" />
-        <option value="$PROJECT_DIR$/dales/config/config.php" />
-        <option value="$PROJECT_DIR$/dales/kernel/helpers.php" />
-        <option value="$PROJECT_DIR$/dales/kernel/kernel.php" />
-        <option value="$PROJECT_DIR$/dales/error/error.php" />
-        <option value="$PROJECT_DIR$/dales/system/fire/fire.php" />
-        <option value="$PROJECT_DIR$/dales/kernel/checks.php" />
-        <option value="$PROJECT_DIR$/dales/kernel/systemcalls/controller.php" />
-        <option value="$PROJECT_DIR$/dales/error/resource/404.php" />
-        <option value="$PROJECT_DIR$/dales/view/View.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/app/controller/HomeController.php" />
-        <option value="$PROJECT_DIR$/app/view/test.php" />
-        <option value="$PROJECT_DIR$/app/config/routes.php" />
-        <option value="$PROJECT_DIR$/dales/routing/Routing.php" />
         <option value="$PROJECT_DIR$/dales/routing/http.php" />
         <option value="$PROJECT_DIR$/app/config/app.php" />
-        <option value="$PROJECT_DIR$/backup/routing/Routes.php" />
-        <option value="$PROJECT_DIR$/app/view/signin.php" />
-        <option value="$PROJECT_DIR$/dales/system/auth/Auth.php" />
-        <option value="$PROJECT_DIR$/dales/system/filesystem/File.php" />
-        <option value="$PROJECT_DIR$/dales/view/HTML.php" />
-        <option value="$PROJECT_DIR$/app/view/home.php" />
-        <option value="$PROJECT_DIR$/app/view/material/footer.php" />
-        <option value="$PROJECT_DIR$/app/view/material/header.php" />
-        <option value="$PROJECT_DIR$/dales/routing/Routes.php" />
+        <option value="$PROJECT_DIR$/dales/kernel/helpers.php" />
+        <option value="$PROJECT_DIR$/dales/kernel/checks.php" />
+        <option value="$PROJECT_DIR$/app/config/routes.php" />
+        <option value="$PROJECT_DIR$/app/view/index.php" />
+        <option value="$PROJECT_DIR$/dales/kernel/systemcalls/controller.php" />
+        <option value="$PROJECT_DIR$/dales/view/View.php" />
+        <option value="$PROJECT_DIR$/dales/routing/Routing.php" />
+        <option value="$PROJECT_DIR$/app/controller/IndexController.php" />
+        <option value="$PROJECT_DIR$/dales/controller/Controller.php" />
       </list>
     </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
-    <option name="height" value="754" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -791,43 +136,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="dales" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dales" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dales" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dales" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dales" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dales" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dales" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="routing" />
+              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -844,6 +153,10 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -853,7 +166,11 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../quizv2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="SearchEverywhereHistoryKey" value="contr&#9;FILE&#9;file://E:/xampp/htdocs/html/dales/dales/kernel/systemcalls/controller.php&#10;cont&#9;FILE&#9;file://E:/xampp/htdocs/html/dales/dales/controller/Controller.php&#10;rout&#9;FILE&#9;file://E:/xampp/htdocs/html/dales/dales/routing/Routing.php" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -884,15 +201,16 @@
       <BehatRunner />
       <method />
     </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="8a44db7a-2f22-4e63-aab1-f4366b69dc6d" server_name="dales">
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
       <tasks />
-      <pass-parent-env-vars>false</pass-parent-env-vars>
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="8a44db7a-2f22-4e63-aab1-f4366b69dc6d" server_name="dales">
       <method />
     </configuration>
     <list size="0" />
@@ -911,8 +229,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32868218" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -920,7 +238,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16544656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16944024" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32868218" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -958,41 +276,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/test.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="187">
-          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controller/HomeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="476">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dales/routing/Routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="799" max-vertical-offset="1428">
-          <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dales/bootstrap.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="612">
-          <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dales/config/path.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
@@ -1014,13 +297,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controller/IndexController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="119">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/test.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.11505922" vertical-offset="0" max-vertical-offset="591">
@@ -1035,59 +311,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controller/home/HomeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="591">
-          <caret line="0" column="35" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dales/autoload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5465313" vertical-offset="0" max-vertical-offset="591">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/services/service.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="591">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="617">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/kernel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="591">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/registry.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.05752961" vertical-offset="0" max-vertical-offset="591">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dales/model/Model.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="591">
           <caret line="0" column="27" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/model/HomeModel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.028764805" vertical-offset="0" max-vertical-offset="591">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1105,38 +332,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dales/bootstrap.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4314721" vertical-offset="0" max-vertical-offset="591">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dales/kernel/systemcalls/model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="591">
-          <caret line="0" column="25" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dales/kernel/systemcalls/view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.028764805" vertical-offset="0" max-vertical-offset="591">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dales/config/config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.23011844" vertical-offset="0" max-vertical-offset="591">
           <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dales/kernel/helpers.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08629441" vertical-offset="0" max-vertical-offset="591">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -1154,38 +353,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dales/kernel/kernel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.92047375" vertical-offset="0" max-vertical-offset="697">
-          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dales/kernel/checks.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5465313" vertical-offset="0" max-vertical-offset="1173">
-          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dales/kernel/systemcalls/controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31641287" vertical-offset="0" max-vertical-offset="591">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dales/error/resource/404.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="591">
           <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/view/bootstrap/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6040609" vertical-offset="0" max-vertical-offset="591">
-          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -1196,52 +367,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dales/view/View.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.423077" vertical-offset="0" max-vertical-offset="544">
-          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/view/test.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.028764805" vertical-offset="0" max-vertical-offset="591">
           <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controller/HomeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="442">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="272">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dales/routing/http.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37394246" vertical-offset="0" max-vertical-offset="782">
-          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dales/routing/Routing.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34517765" vertical-offset="0" max-vertical-offset="901">
-          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/app.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14382403" vertical-offset="0" max-vertical-offset="591">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -1252,34 +381,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/view/signin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.028764805" vertical-offset="0" max-vertical-offset="591">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dales/error/error.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="595">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/view/home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="187">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/view/material/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="340">
           <caret line="2" column="79" selection-start-line="2" selection-start-column="79" selection-end-line="2" selection-end-column="79" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1287,15 +392,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="357">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dales/system/filesystem/File.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="187">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1306,25 +402,248 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/dales/system/filesystem/File.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11505922" vertical-offset="0" max-vertical-offset="591">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dales/system/auth/Auth.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="30.538462" vertical-offset="1338" max-vertical-offset="1955">
           <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
-          <folding>
-            <marker date="1432928062540" expanded="true" signature="234:274" placeholder="SELECT * FRO..users..." />
-            <marker date="1432928062540" expanded="true" signature="1485:1525" placeholder="SELECT * FRO..users..." />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/bootstrap/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6040609" vertical-offset="0" max-vertical-offset="591">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dales/error/error.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7123519" vertical-offset="4" max-vertical-offset="595">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="617">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/changelog.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dales/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6048689" vertical-offset="0" max-vertical-offset="534">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dales/kernel/systemcalls/model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
+          <caret line="0" column="25" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dales/kernel/systemcalls/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.33333334" vertical-offset="0" max-vertical-offset="119">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dales/routing/Routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45516074" vertical-offset="173" max-vertical-offset="1139">
-          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.881932" vertical-offset="0" max-vertical-offset="1139">
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dales/routing/http.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36135957" vertical-offset="2" max-vertical-offset="782">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dales/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38202247" vertical-offset="0" max-vertical-offset="534">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dales/kernel/helpers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.060822897" vertical-offset="0" max-vertical-offset="559">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dales/kernel/checks.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36135957" vertical-offset="801" max-vertical-offset="1360">
+          <caret line="59" column="30" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/signin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.030411448" vertical-offset="0" max-vertical-offset="559">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15205725" vertical-offset="0" max-vertical-offset="559">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/services/service.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="559">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/model/HomeModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.030411448" vertical-offset="0" max-vertical-offset="559">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controller/home/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="559">
+          <caret line="0" column="35" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controller/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48658317" vertical-offset="0" max-vertical-offset="559">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/registry.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.060822897" vertical-offset="0" max-vertical-offset="559">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="559">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15205725" vertical-offset="0" max-vertical-offset="559">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27370304" vertical-offset="0" max-vertical-offset="559">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dales/view/View.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7298748" vertical-offset="0" max-vertical-offset="561">
+          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dales/routing/Routing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4874552" vertical-offset="204" max-vertical-offset="867">
+          <caret line="30" column="93" selection-start-line="30" selection-start-column="93" selection-end-line="30" selection-end-column="93" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dales/kernel/kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7258065" vertical-offset="139" max-vertical-offset="697">
+          <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dales/controller/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15232974" vertical-offset="0" max-vertical-offset="558">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dales/kernel/systemcalls/controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39605734" vertical-offset="0" max-vertical-offset="558">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controller/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1218638" vertical-offset="0" max-vertical-offset="558">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15232974" vertical-offset="0" max-vertical-offset="558">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="559">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
   </component>
 </project>
-
