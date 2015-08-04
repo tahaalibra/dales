@@ -8,7 +8,17 @@ class IndexController extends Controller
 
     public function index()
     {
-        echo "Hi this is index";
+        return view('index');
+    }
+
+    public function result()
+    {
+        return view('result');
+    }
+
+    public function login($abcd)
+    {
+        echo $abcd;
     }
 
 

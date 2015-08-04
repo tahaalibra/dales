@@ -4,6 +4,7 @@ use dales\routing\Routes;
 
 Routes::set('/','HomeController@home');
 Routes::set('index','indexController@index');
+Routes::set('login/{abcd}','indexController@login');
 
 
 
