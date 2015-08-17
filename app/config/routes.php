@@ -1,10 +1,9 @@
 <?php
 use dales\routing\Routes;
 
-
-Routes::set('/','HomeController@home');
-Routes::set('index','indexController@index');
-
+Routes::set('/','IndexController@index');
+Routes::set('login','LoginController@index');
+Routes::set('signup','SignupController@index');
 
 
 
