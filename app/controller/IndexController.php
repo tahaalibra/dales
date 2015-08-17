@@ -1,8 +1,7 @@
 <?php namespace app\controller;
 
-use dales\controller\Controller;
 
-class IndexController extends Controller
+class IndexController 
 {
 
   public function index()

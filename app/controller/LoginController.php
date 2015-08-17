@@ -1,13 +1,12 @@
 <?php namespace app\controller;
 
-use dales\controller\Controller;
 
-class IndexController
+class LoginController 
 {
 
   public function index()
   {
-      // return view('index',array('title' => 'Welcome'));
+      return view('login',array('title' => 'Login'));
   }
 
 
