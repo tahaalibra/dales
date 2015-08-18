@@ -12,7 +12,7 @@ padding-top: 100px;
                     <a href="login"><button type="button" class="btn btn-default">Login</button></a>
                 </div>
                 <div class="btn-group" role="group">
-                    <button type="button" class="btn btn-default">SignUp</button>
+                    <a href="signup"><button type="button" class="btn btn-default">SignUp</button></a>
                 </div>
             </div>
         </div>
