@@ -1,0 +1,9 @@
+# TODO
+
+- add support for multiple protocols in routes
+- auth as service
+- improve function for models
+- fire, alert option, remember form
+- easy validation and extraction from $_GET and $_POST
+- improve template engine
+- better error handling
