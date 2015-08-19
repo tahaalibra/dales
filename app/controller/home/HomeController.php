@@ -4,7 +4,7 @@ class HomeController
 {
   public function home()
   {
-      view("home");
+      echo "aksh";
   }
 
   public function test($abcd=null, $klm=null)
