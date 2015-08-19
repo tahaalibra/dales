@@ -4,7 +4,6 @@ class Model extends PDOQuery
 {
     protected $model;
     protected $table;
-    public $test;
 
     public function __construct()
     {
