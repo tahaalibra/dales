@@ -1,26 +1,9 @@
 <?php namespace app\controller;
 
-use dales\controller\Controller;
-
-class IndexController extends Controller
+class IndexController
 {
-    //use \dales\view\View;
-
     public function index()
     {
-        return view('index');
+        return view("index", array('title' => 'Welcome To Dales'));
     }
-
-    public function result()
-    {
-        return view('result');
-    }
-
-    public function login($abcd)
-    {
-        echo $abcd;
-    }
-
-
-
 }
