@@ -16,7 +16,7 @@ padding-top: 100px;
                 <br>
                 <div class="input-group input-group-lg">
                     <span class="input-group-addon" id="sizing-addon1"></span>
-                    <input type="text" class="form-control" placeholder="Password" name="password" aria-describedby="sizing-addon1">
+                    <input type="password" class="form-control" placeholder="Password" name="password" aria-describedby="sizing-addon1">
                 </div>
                 <br>
                 <div class="btn-group btn-group-justified" role="group" aria-label="...">
@@ -28,7 +28,7 @@ padding-top: 100px;
             <br>
             <div class="btn-group btn-group-justified" role="group" aria-label="...">
                 <div class="btn-group" role="group">
-                    <a href="home"><button type="button" class="btn btn-default">Home</button></a>
+                    <a href="index"><button type="button" class="btn btn-default">Home</button></a>
                 </div>
             </div>
         </div>

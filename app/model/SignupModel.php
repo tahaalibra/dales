@@ -1,6 +1,7 @@
 <?php namespace app\model;
 
 use dales\model\Model;
+use dales\system\encryption\Encryption;
 
 class SignupModel extends Model
 {
@@ -13,12 +14,13 @@ class SignupModel extends Model
 		
 		if($count==0){
 
+			$password = Encryption::hash($password);
 			$stmt = $this->dbconnect->prepare("INSERT INTO `users`( `username`, `password`) VALUES(:username, :password)");
 			$stmt->execute(array('username' => $username, 'password' => $password));
-			return "User Created Successfully";
+			return 1;
 
 		}else{
-			return "User Already Present";
+			return 0;
 		}
 	}
 }
